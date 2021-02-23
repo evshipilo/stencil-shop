@@ -1,0 +1,22 @@
+header {
+  background: var(--global-color);
+  color: white;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+}
+
+h1 {
+  font-size: 1.4rem;
+  font-weight: 500;
+  color: #fff;
+  padding: 0 12px;
+}
+
+.container{
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: var(--g-background-color);
+  min-height: 100vh;
+}
